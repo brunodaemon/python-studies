@@ -1,0 +1,8 @@
+424efe9 added test4.py to dev-local
+1b71d3e apaguei o test2.py para ver se some de todos os branches
+2c2f142 Merge branch 'dev-local' into newbranch
+874a889 Merge branch 'main' into dev-local
+75a9974 added test3.py to dev-local
+72fd918 added test2.py to newbranch
+49e5e2e my test
+3d5d3b5 first commit
